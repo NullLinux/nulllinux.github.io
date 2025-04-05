@@ -1,3 +1,3 @@
-# nulllinux.github.io
+# website
 
 The official NullLinux website.
